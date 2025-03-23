@@ -14,7 +14,7 @@ I enjoy staying on top of the latest trends in web development, and I thrive on 
 <p align="left">
 <a href="https://anilist.co/user/Hachiman/" target="_blank" rel="noreferrer"><img src="https://anilist.co/favicon.ico" width="32" height="32" alt="Anilist" /><img src="https://i.imgur.com/qFmcbT0.png" width="5" height="32" /></a><a href="https://myanimelist.net/profile/-Yowai-" target="_blank" rel="noreferrer"><img src="https://myanimelist.net/favicon.ico" width="32" height="32" alt="MyAnimeList" /></a><a href="https://open.spotify.com/user/317viwutdq4eqqp6xb5rtvx5s4f4?si=c8fc6aa6413542ce" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/qFmcbT0.png" width="5" height="32" /><img src="https://open.spotify.com/favicon.ico" width="32" height="32" alt="Spotify" /></a>
 </p>
-
+<a href="https://hachiman-discord-badge.vercel.app/api?id=771711163598635038&redirect=1"><img src="https://hachiman-discord-badge.vercel.app/api?id=771711163598635038&bg=0b1622&txtColor=9fadbd&detailColor=677b94&fg=192231&borderRadius=6&fgopacity=.95&logo=1&wide=1&lgbg=1&bgsizex=55&bgsizey=120&bgposy=0&theme=0&hideoffline=1"/></a> 
 
 <details><summary>My GitHub Stats</summary>
 <p dir="auto">
